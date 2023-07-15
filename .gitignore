@@ -1,0 +1,11 @@
+*/*/mjkey.txt
+**/.DS_STORE
+**/*.pyc
+__pycache__/
+**/*.swp
+vcrl/launchers/config.py
+vcrl/launchers/conf_private.py
+MANIFEST
+*.egg-info
+data
+*/.ipynb_checkpoints/*

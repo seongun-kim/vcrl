@@ -8,7 +8,6 @@ This repository contains the official training and evaluation code for [Variatio
 
 ## Installation
 All Python dependencies are listed in [`environment.yml`](environment.yml). To set up the environment, follow these steps:
-run the following commands:
 1. Install the Anaconda environment by running the following command:
     ```shell
     conda env create -f environment.yml
